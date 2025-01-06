@@ -43,5 +43,6 @@ Below is a demonstration, you can view the difference by paying attention to the
 ![Animation3](https://github.com/user-attachments/assets/e38a8555-6e65-46d8-a0c3-6a2bd7c351fa)
 
 **Culling Enabled:**
-![Animation4](https://github.com/user-attachments/assets/add6bdbe-b83e-43db-85d8-81435576c476)
+![Animation4](https://github.com/user-attachments/assets/a4013259-7b56-4e1f-ad76-f3a5794a3a2c)
+
 
