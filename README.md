@@ -46,3 +46,5 @@ Below is a demonstration, you can view the difference by paying attention to the
 ![Animation4](https://github.com/user-attachments/assets/a4013259-7b56-4e1f-ad76-f3a5794a3a2c)
 
 
+### Credits for the assets on the scene:
+https://assetstore.unity.com/packages/3d/environments/landscapes/free-low-poly-nature-forest-205742 - Demo Scene
